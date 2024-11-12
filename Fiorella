@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Página personal de Fiorella Andrea Garcia Davalos, estudiante de Administración de Empresas">
+    <meta name="keywords" content="Fiorella Andrea Garcia Davalos, Administración de Empresas, Cursos">
+    <meta name="author" content="Fiorella Andrea Garcia Davalos">
+    <title>Página de Fiorella Andrea Garcia Davalos</title>
+</head>
+<body>
+    <h1>Fiorella Andrea Garcia Davalos</h1>
+    <p>Estudiante de Administración de Empresas</p>
+
+    <h2>Datos Generales</h2>
+    <ul>
+        <li>Nombre: Fiorella Andrea Garcia Davalos</li>
+        <li>Carrera: Administración de Empresas</li>
+    </ul>
+
+    <h2>Cursos Realizados</h2>
+    <ul>
+        <li>Análisis Financiero</li>
+        <li>Pensamiento Crítico e Innovación</li>
+        <li>Comportamiento del Consumidor</li>
+        <li>Derecho Empresarial</li>
+    </ul>
+
+    <h2>Compañeros de Grupo</h2>
+    <ul>
+        <li><a href="http://paginadecolega1.com">Colega 1</a></li>
+        <li><a href="http://paginadecolega2.com">Colega 2</a></li>
+        <li><a href="http://paginadecolega3.com">Colega 3</a></li>
+    </ul>
+</body>
+</html>
